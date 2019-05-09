@@ -1,2 +1,2 @@
 def print_art():
-	print("allo")
+	print("le regard perdu / dans la nuit / le chemin de la lune")
